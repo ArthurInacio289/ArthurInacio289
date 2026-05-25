@@ -24,7 +24,7 @@ Here are the tools, languages, and frameworks I use to bring ideas to life:
 
 ### 🏆 Featured Project
 I have a few projects published here, but in my opinion, the most interesting one is:
-* 🤖 **AtendenteVirtual** (Virtual Attendant)
+* 🤖 ([Virtual Attendant](https://github.com/ArthurInacio289/AtendenteVirtual))
 
 ---
 
