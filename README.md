@@ -11,6 +11,17 @@ I'm **Arthur**, a Full-Stack Developer based in Rio de Janeiro, Brazil.
 
 ---
 
+### 🛠️ Skills & Technologies
+Here are the tools, languages, and frameworks I use to bring ideas to life:
+
+* **Languages:** `C#` | `Python` | `SQL`
+* **Frontend:** `React.js` | `AngularJS`
+* **Backend & Frameworks:** `ASP.NET` | `ASP.NET MVC` | `.NET Framework` | `Entity Framework`
+* **Databases:** `PostgreSQL`
+* **Soft Skills:** Teamwork (Trabalho em equipe) | Proactivity (Proatividade) | Fast Learner (Aprendizado rápido)
+
+---
+
 ### 🏆 Featured Project
 I have a few projects published here, but in my opinion, the most interesting one is:
 * 🤖 **AtendenteVirtual** (Virtual Attendant)
@@ -23,11 +34,6 @@ I have a few projects published here, but in my opinion, the most interesting on
 
 ---
 
-### 🛠️ Tech Stack & Tools
-*(Feel free to add your favorite icons or badges here later!)*
-
----
-
 ### 📬 Connect with me
-* 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com) *(Optional - update with your link)*
-* 📧 **Email:** [Your Email](mailto:your.email@example.com) *(Optional - update with your link)*
+* 💼 **LinkedIn:** [Arthur Inácio](https://www.linkedin.com/in/arthurh-inacio/)
+* 📧 **Email:** [arthur.inacio289@gmail.com]
