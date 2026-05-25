@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello there! 👋
+I'm Arthur, a Full-Stack Developer based in Rio de Janeiro, Brazil.
 
-<!--
-**ArthurInacio289/ArthurInacio289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites and APIs across all kinds of domains and use cases.
 
-Here are some ideas to get you started:
+Currently, I am specializing in Artificial Intelligence using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a few projects published here, but in my opinion, the most interesting one is AtendenteVirtual (Virtual Attendant).
+
+I'm open to project proposals across all fields—from Unity/Game Development to Web Development.
+
+⚡ Fun Facts:
+.🐶 I have a dog.
+.🏀 Hobbies: Gym, Basketball, and Gaming.
