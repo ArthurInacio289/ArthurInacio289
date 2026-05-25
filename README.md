@@ -1,4 +1,5 @@
 Hello there! 👋
+
 I'm Arthur, a Full-Stack Developer based in Rio de Janeiro, Brazil.
 
 I build websites and APIs across all kinds of domains and use cases.
