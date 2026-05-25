@@ -36,4 +36,4 @@ I have a few projects published here, but in my opinion, the most interesting on
 
 ### 📬 Connect with me
 * 💼 **LinkedIn:** [Arthur Inácio](https://www.linkedin.com/in/arthurh-inacio/)
-* 📧 **Email:** [arthur.inacio289@gmail.com]
+* 📧 **Email:** arthur.inacio289@gmail.com
